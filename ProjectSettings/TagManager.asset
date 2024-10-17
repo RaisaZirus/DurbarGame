@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Ammo
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Sky
+  - firstAfterSky
+  - SecondAfterSky
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: sky
+    uniqueID: 1911900639
+    locked: 0
+  - name: firstaftersky
+    uniqueID: 3747015789
+    locked: 0
+  - name: secondaftersky
+    uniqueID: 3383404033
+    locked: 0
+  - name: thirdaftersky
+    uniqueID: 2668533979
+    locked: 0
+  - name: ekebareshamne
+    uniqueID: 96719729
+    locked: 0
